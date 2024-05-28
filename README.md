@@ -16,3 +16,4 @@
 ```java
 Random r = new Random();
 ```
+import는 직접 작성하지 않고 **단축키**인 'ctrl +shift+o'를 누릅니다
